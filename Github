@@ -1,6 +1,9 @@
-local = watermark
+local = "Size"
+local = "text"
+repeat.local watermark - true
+local = "watermark"
 local = false
-{watermark}
+{watermark} - false
 screen.Gui.Api.Renderwindow - true
 Name = "clumsy"
 function = function(callback)
@@ -16,3 +19,6 @@ RBGcolor = false
 execute - true
 --text size LMAO
 Size = {1.3, 0.5, 0.8} = false
+text = "clumsy"
+({
+end)
